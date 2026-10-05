@@ -213,7 +213,9 @@ Improving user experience through real-time feedback
 👩‍💻 Internship Task
 
 Organization: Cognifyz Technologies
+
 Level: Level 2 – Intermediate
+
 Task: Task 4 – Complex Form Validation and Dynamic DOM Manipulation
 
 🚀 Future Enhancements
