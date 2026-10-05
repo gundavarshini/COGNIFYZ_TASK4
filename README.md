@@ -178,6 +178,9 @@ The project includes:
 
 Home Page – Introduction to the application and key features.
 
+
+
+
 Registration Page – Advanced registration form with password validation.
 
 About Page – Information about the task, features, and technologies used.
@@ -206,7 +209,6 @@ Express.js
 Building interactive web interfaces
 
 Improving user experience through real-time feedback
-
 
 👩‍💻 Internship Task
 
